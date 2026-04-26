@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Mano Svetaine</title>
+    <link>https://hotrumax.github.io/posts/</link>
+    <description>Recent content in Posts on Mano Svetaine</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Apr 2026 14:32:35 +0000</lastBuildDate>
+    <atom:link href="https://hotrumax.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pirmas puslapis</title>
+      <link>https://hotrumax.github.io/posts/pirmaspuslapis/</link>
+      <pubDate>Sun, 26 Apr 2026 14:32:35 +0000</pubDate>
+      <guid>https://hotrumax.github.io/posts/pirmaspuslapis/</guid>
+      <description>&lt;p&gt;Tai yra testinis puslapis pirmam namu darbui. Sveiki atvyke.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
